@@ -1,5 +1,5 @@
 # ==============================
-# Question 2 – Pattern Printing
+# Question 2 – Pattern Printing (25 marks)
 # ==============================
 
 def pattern(n: int, style: str) -> None:
